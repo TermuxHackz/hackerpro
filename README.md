@@ -39,4 +39,8 @@ Open Terminal and Type :
 
 > git clone https://github.com/TermuxHackz/hackerpro
 
-After Downloading The File Type : sudo cd hackerpro && sudo python2 hackerpro.py
+After Downloading The File Type : 
+
+> sudo cd hackerpro 
+
+> sudo python2 hackerpro.py
